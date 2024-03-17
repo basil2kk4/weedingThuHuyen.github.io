@@ -1,0 +1,511 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Phạm Biểu &amp; Đỗ Phượng Wedding site!</title>
+    <meta name="description" content="Phạm Biểu &amp; Đỗ Phượng - Our wedding date: 2024-03-17 | Bạn là mặt trời của tôi, mặt trăng của tôi, và tất cả các ngôi sao của tôi">
+    <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Tạo website đám cưới miễn phí">
+    <meta name="format-detection" content="telephone=no">
+    <meta property="og:site_name" content="Phạm Biểu &amp; Đỗ Phượng">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Phạm Biểu &amp; Đỗ Phượng Wedding site!">
+    <meta property="og:url" content="https://bieuphuong.iwedding.info">
+    <meta property="og:description" content="Phạm Biểu &amp; Đỗ Phượng - Our wedding date: 2024-03-17 | Bạn là mặt trời của tôi, mặt trăng của tôi, và tất cả các ngôi sao của tôi">
+    <meta property="og:image" content="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/ff498e311e8109e0ba7a461c6f99997a.jpeg">
+    <meta property="og:image:url" content="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/ff498e311e8109e0ba7a461c6f99997a.jpeg">
+    <meta property="og:image:secure_url" content="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/ff498e311e8109e0ba7a461c6f99997a.jpeg">
+    <link rel="shortcut icon" type="image/x-icon" href="https://iwedding.info/favicon.ico">
+    <link href="https://bieuphuong.iwedding.info/templates/template15/css/libs.css?v=20240301" rel="stylesheet">
+    <link href="https://bieuphuong.iwedding.info/common/calendar.css?v=20240301" rel="stylesheet">
+    <link href="https://bieuphuong.iwedding.info/templates/template15/css/style.css?v=20240301" rel="stylesheet">
+    <link href="https://bieuphuong.iwedding.info/common/fonts/fonts.css?v=20240301" rel="stylesheet">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-K9L0ZFE1PJ"></script>
+	<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-K9L0ZFE1PJ');</script>
+</head>
+<script type="text/javascript">
+    var photoGalleries = [];
+</script>
+<body  onkeydown="return false">
+    <div class="page-wrapper flower-fixed-body">
+        <div class="preloader">
+            <div class="middle">
+                <i class="fi flaticon-favorite-heart-button"></i>
+                <i class="fi flaticon-favorite-heart-button"></i>
+                <i class="fi flaticon-favorite-heart-button"></i>
+                <i class="fi flaticon-favorite-heart-button"></i>
+            </div>
+        </div>
+        <header id="header" class="site-header header-style-1">
+            <div class="topbar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col col-xs-12">
+                            <div class="site-logo">
+                                <a href="/">
+                                    <h1>Phạm Biểu <i class="ti-heart"></i> Bích Phượng</h1>
+                                    <span>Just Married</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <nav class="navigation navbar navbar-default">
+                <div class="container">
+                    <div class="navbar-header">
+                    	<div class="logo">
+                    		<a href="#home"><span>B</span> <i class="ti-heart"></i> <span>P</span></a>
+                    	</div>
+                        <button type="button" class="open-btn">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <div id="navbar" class="navbar-collapse collapse navigation-holder">
+                        <button class="close-navbar"><i class="ti-close"></i></button>
+                        <ul class="nav navbar-nav">
+                            <li><a href="#couple">Cặp đôi</a></li>
+
+                            
+                                                        <li><a href="#gallery">Album cưới</a></li>
+                            
+                            
+                                                        <li><a href="#events">Sự kiện</a></li>
+                            
+                            
+                                                    </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <section class="hero-slider hero-style-1" id="home">
+            <div class="swiper-container">
+                <div class="slide-main-text">
+                    <div class="container">
+                        <div class="slide-title">
+                            <h2><span>Phạm Biểu</span> <i class="ti-heart"></i> <span>Bích Phượng</span></h2>
+                        </div>
+                        <div class="wedding-date">
+                            <span>29 Tháng 3 2024</span>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <!-- <div class="pattern">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div> -->
+                </div>
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="slide-inner slide-bg-image" data-background="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/templates/6174ef83a62963738e0a367c/e2e7595d4bf5dc8c1148e2698b232cf8.jpg"></div> 
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide-inner slide-bg-image" data-background="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/templates/6174ef83a62963738e0a367c/2afdb36406c18b498ddfa17be2283aaa.jpg"></div>
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </section>
+
+        <section class="invitation-section section-padding section-bg-img">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-md-6">
+                        <div class="invitation-box left">
+                            <div class="left-vec"></div>
+                            <div class="right-vec"></div>
+                            <div class="inner">
+                                <h2>Save the Date</h2>
+                                <span>For the wedding of</span>
+                                <h3>Phạm Biểu & Bích Phượng</h3>
+                                <p>Chắc mọi người cũng đợi ngày này lâu lắm rồi. Sau thời gian dài tìm hiểu nhau thì chúng mình cũng đã quyết định về chung một nhà. Kính mời mọi người bớt chút thời gian đến dự bữa cơm thân mật chung vui với vợ chồng mình.❤️❤️</p>
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-md-6">
+                        <div class="invitation-box calendar-box">
+                            <div class="left-vec"></div>
+                            <div class="right-vec"></div>
+                            <div class="inner">
+                                <div class="mini_calendar">
+<table>
+<caption class="calendar-month"> March /  2024</caption>
+<tr><th abbr="Sunday">Sun</th><th abbr="Monday">Mon</th><th abbr="Tuesday">Tue</th><th abbr="Wednesday">Wed</th><th abbr="Thursday">Thu</th><th abbr="Friday">Fri</th><th abbr="Saturday">Sat</th></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1</td><td>2</td></tr>
+<tr><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr>
+<tr><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+<tr><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td></tr>
+<tr><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td><div id="today">29</div></td><td>30</td></tr>
+<tr><td>31</td><td id="emptydays" colspan="6">&nbsp;</td></tr>
+</table>
+</div>
+
+                            </div>
+                            <div class="count-down-clock">
+	                            <div id="clock" data-date="2024-03-29" data-text-day="Ngày" data-text-hour="Giờ" data-text-minute="Phút" data-text-second="Giây"></div>
+	                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    	
+        <section class="couple-section section-padding" id="couple">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+                        <div class="section-title">
+                            <h2>Cô dâu & Chú rể</h2>
+                            <p>It only takes a second to say i love you. But it will take a lifetime to show you how much.☺️☺️</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col col-lg-10 col-lg-offset-1">
+                        <div class="couple-area">
+                            <div class="couple-row clearfix">
+                                <div class="img-holder">
+                                    <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/12f83609c5331621ea18409fdb7970f1.jpeg" alt>
+                                </div>
+                                <div class="details">
+                                    <div class="inner">
+                                        <h2>Phạm Biểu</h2>
+                                                                                <p>Anh là một người đơn giản và ít nói. Luôn coi trọng tình cảm và có trách nhiệm. Đối với em - Em trao thanh xuân của mình cho anh. Anh trao lại cho em cả cuộc đời. Cảm ơn em đã đến bên anh, mình cùng nhau viết tiếp câu chuyện tình đẹp này nhé!❤️</p>
+                                        <ul class="social-links">
+                                        	                                            
+                                                                                        
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="couple-row last-row clearfix">
+                                <div class="details">
+                                    <div class="inner">
+                                        <h2>Đỗ Phượng</h2>
+                                                                                <p>Trên đời này tốt nhất nên có qua có lại. Anh tặng em chân thành, em sẽ trả lại anh bằng một tình yêu nồng cháy. Anh cho em sự an toàn, em sẽ dành tặng anh cả cuộc đời. Cảm ơn anh đã xuất hiện trong cuộc đời, và để lại những dấu ấn thật đẹp trong quãng thời gian thanh xuân không thể quay trở lại ấy.❤️</p>
+                                        <ul class="social-links">
+                                        	                                            
+                                                                                        
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                                <div class="img-holder">
+                                    <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/64dc0d5d3ce254b8a80d6fea417f7a5c.jpeg" alt>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+                <section class="section-accessibilities section-bg-img">
+        	<div class="container">
+            	<div class="row button-accessibilities">
+	            	<div class="col col-lg-12">
+	            		<div class="text-center btn-container">
+	            				            				            			<a href="https://bieuphuong.iwedding.info/rsvp" target="_blank" class="accessibility-btn theme-btn">
+	                			<span class="content-button">
+		                			<img class="access-section-icon" src="https://cdn.biihappy.com/ziiweb/images/static/common/rsvp4.png" alt="access-btn"> Xác nhận tham dự
+		                		</span>
+	                		</a>
+	                			                			            		</div>
+	            	</div>
+	            </div>
+        	</div>
+        </section>
+        
+        
+                
+                <section class="event-section section-padding p-t-0 section-bg-color" id="events">
+            <div class="top-area" style="background: url(https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/templates/6174ef83a62963738e0a367c/35ad0781dba98832b2c0f5e3cb5d32cc.jpg) center center/cover no-repeat local;">
+                <h2>Sự Kiện Cưới</h2>
+                <p class="">...tình yêu không phải là nhìn chằm chằm vào nhau, mà là nhìn chằm chằm về cùng một hướng...</p>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col col-xs-12">
+                        <div class="event-grids clearfix">
+                                                                                    <div class="grid section-bg-img">
+                                <h3 >LỄ ĂN HỎI</h3>
+                                <div class="image-wrap">
+                                    <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/90bcdfc73e599301ee207931dabe76bf.jpeg" alt="">
+                                                                    </div>
+                                <p><strong>10:30 16/03/2024</strong></p>
+                                <p>Tại Tư gia nhà Gái - TDP Nam Bắc Đường, Thị trấn Ninh Cường, Trực Ninh, Nam Định</p>
+                                
+                                <div class="calendar-button">
+		                            <div class="atcb" style="display:none;">
+									{
+									  "name":"LỄ ĂN HỎI (Đám cưới Phạm Biểu và Bích Phượng)",
+									  "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://bieuphuong.iwedding.info[/url]",
+									  "startDate":"2024-03-16",
+									  "endDate":"2024-03-16",
+									  "startTime":"10:30",
+									  "endTime":"10:30",
+									  "location":"Tại Tư gia nhà Gái - TDP Nam Bắc Đường, Thị trấn Ninh Cường, Trực Ninh, Nam Định",
+									  "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
+									  "timeZone":"Asia/Ho_Chi_Minh",
+									  "iCalFileName":"Reminder-Event",
+									  "listStyle":"modal",
+									  "label":"Thêm vào lịch",
+									  "trigger":"click"
+									}
+									</div>
+								</div>
+                                <a class="see-location-btn" href="https://maps.app.goo.gl/x7cU9VFk92WCsoYu9?g_st=ic" target="_blank">Xem bản đồ</a>
+                            </div>
+                                                                                                                <div class="grid section-bg-img">
+                                <h3 >LỄ THÀNH HÔN</h3>
+                                <div class="image-wrap">
+                                    <img src="https://cdn.biihappy.com/ziiweb/default/website/21b07b7d583692f49091b87facbf2c92.png" alt="">
+                                                                    </div>
+                                <p><strong>11:00 29/03/2024</strong></p>
+                                <p>Tại Tư gia nhà Trai - TDP Tây Đường, Thị trấn Ninh Cường, Trực Ninh, Nam Định</p>
+                                
+                                <div class="calendar-button">
+		                            <div class="atcb" style="display:none;">
+									{
+									  "name":"LỄ THÀNH HÔN (Đám cưới Phạm Biểu và Bích Phượng)",
+									  "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://bieuphuong.iwedding.info[/url]",
+									  "startDate":"2024-03-29",
+									  "endDate":"2024-03-29",
+									  "startTime":"11:00",
+									  "endTime":"11:00",
+									  "location":"Tại Tư gia nhà Trai - TDP Tây Đường, Thị trấn Ninh Cường, Trực Ninh, Nam Định",
+									  "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
+									  "timeZone":"Asia/Ho_Chi_Minh",
+									  "iCalFileName":"Reminder-Event",
+									  "listStyle":"modal",
+									  "label":"Thêm vào lịch",
+									  "trigger":"click"
+									}
+									</div>
+								</div>
+                                <a class="see-location-btn" href="https://maps.app.goo.gl/PiDPgp7CFHUJu63L9?g_st=ic" target="_blank">Xem bản đồ</a>
+                            </div>
+                                                                                </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+                
+                <section class="gallery-section section-padding" id="gallery">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+                        <div class="section-title">
+                            <h2>Album Hình Cưới</h2>
+                            <p>Được ai đó yêu sâu sắc sẽ mang lại cho bạn sức mạnh, trong khi yêu ai đó sâu sắc sẽ cho bạn dũng khí.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col col-xs-12">
+                        <div class="gallery-container gallery-fancybox masonry-gallery">
+                                                            <script type="text/javascript">
+                                    photoGalleries.push({
+                                        src : "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65ed30e70e8eb8937605b401/large.jpg",
+                                        thumb: "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65ed30e70e8eb8937605b401/small.jpg",
+                                        subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                                    });
+                                </script>
+                                                                
+                                                                <div class="grid grid-item btn-see-more-gallery" data-index="0">
+                                    <a href="javascript:void(0)">
+                                        <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65ed30e70e8eb8937605b401/small.jpg" alt class="img img-responsive">
+                                    </a>
+                                </div>
+                                                                                            <script type="text/javascript">
+                                    photoGalleries.push({
+                                        src : "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65e6c47b129955296404f095/large.jpg",
+                                        thumb: "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65e6c47b129955296404f095/small.jpg",
+                                        subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                                    });
+                                </script>
+                                                                
+                                                                <div class="grid grid-item btn-see-more-gallery" data-index="1">
+                                    <a href="javascript:void(0)">
+                                        <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65e6c47b129955296404f095/small.jpg" alt class="img img-responsive">
+                                    </a>
+                                </div>
+                                                                                            <script type="text/javascript">
+                                    photoGalleries.push({
+                                        src : "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf3c4b8204602f940e1930/large.jpg",
+                                        thumb: "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf3c4b8204602f940e1930/small.jpg",
+                                        subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                                    });
+                                </script>
+                                                                
+                                                                <div class="grid grid-item btn-see-more-gallery" data-index="2">
+                                    <a href="javascript:void(0)">
+                                        <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf3c4b8204602f940e1930/small.jpg" alt class="img img-responsive">
+                                    </a>
+                                </div>
+                                                                                            <script type="text/javascript">
+                                    photoGalleries.push({
+                                        src : "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4bfd94967f51044a27/large.jpg",
+                                        thumb: "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4bfd94967f51044a27/small.jpg",
+                                        subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                                    });
+                                </script>
+                                                                
+                                                                <div class="grid grid-item btn-see-more-gallery" data-index="3">
+                                    <a href="javascript:void(0)">
+                                        <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4bfd94967f51044a27/small.jpg" alt class="img img-responsive">
+                                    </a>
+                                </div>
+                                                                                            <script type="text/javascript">
+                                    photoGalleries.push({
+                                        src : "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4b60846f2c120b64e3/large.jpg",
+                                        thumb: "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4b60846f2c120b64e3/small.jpg",
+                                        subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                                    });
+                                </script>
+                                                                
+                                                                <div class="grid grid-item btn-see-more-gallery" data-index="4">
+                                    <a href="javascript:void(0)">
+                                        <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4b60846f2c120b64e3/small.jpg" alt class="img img-responsive">
+                                    </a>
+                                </div>
+                                                                                            <script type="text/javascript">
+                                    photoGalleries.push({
+                                        src : "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4c7be441b646007677/large.jpg",
+                                        thumb: "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4c7be441b646007677/small.jpg",
+                                        subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                                    });
+                                </script>
+                                                                
+                                                                <div class="grid grid-item btn-see-more-gallery" data-index="5">
+                                    <a href="javascript:void(0)">
+                                        <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4c7be441b646007677/small.jpg" alt class="img img-responsive">
+                                    </a>
+                                </div>
+                                                                                            <script type="text/javascript">
+                                    photoGalleries.push({
+                                        src : "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4ef3ee704358029317/large.jpg",
+                                        thumb: "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4ef3ee704358029317/small.jpg",
+                                        subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                                    });
+                                </script>
+                                                                
+                                                                <div class="grid grid-item btn-see-more-gallery" data-index="6">
+                                    <a href="javascript:void(0)">
+                                        <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4ef3ee704358029317/small.jpg" alt class="img img-responsive">
+                                    </a>
+                                </div>
+                                                                                            <script type="text/javascript">
+                                    photoGalleries.push({
+                                        src : "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4ecff0f73b4a064bce/large.jpg",
+                                        thumb: "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4ecff0f73b4a064bce/small.jpg",
+                                        subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                                    });
+                                </script>
+                                                                
+                                                                <div class="grid grid-item btn-see-more-gallery" data-index="7">
+                                    <a href="javascript:void(0)">
+                                        <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e4ecff0f73b4a064bce/small.jpg" alt class="img img-responsive">
+                                    </a>
+                                </div>
+                                                                                            <script type="text/javascript">
+                                    photoGalleries.push({
+                                        src : "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e501f99ab6f7e047d23/large.jpg",
+                                        thumb: "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e501f99ab6f7e047d23/small.jpg",
+                                        subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                                    });
+                                </script>
+                                                                
+                                                                <div class="grid grid-item btn-see-more-gallery" data-index="8">
+                                    <a href="javascript:void(0)">
+                                        <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e501f99ab6f7e047d23/small.jpg" alt class="img img-responsive">
+                                    </a>
+                                </div>
+                                                                                            <script type="text/javascript">
+                                    photoGalleries.push({
+                                        src : "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e53fd94967f51044a28/large.jpg",
+                                        thumb: "https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e53fd94967f51044a28/small.jpg",
+                                        subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                                    });
+                                </script>
+                                                                
+                                                                <div class="grid grid-item btn-see-more-gallery" data-index="9">
+                                    <a href="javascript:void(0)">
+                                        <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/galleries/65cf2e53fd94967f51044a28/small.jpg" alt class="img img-responsive">
+                                    </a>
+                                </div>
+                                                                                    </div>
+                    </div>
+                </div>
+                
+                            </div>
+        </section>
+        
+                
+                
+                <footer class="site-footer footer-style-1">
+            <div class="inner">
+                <div class="couple-pic">
+                    <img src="https://cdn.biihappy.com/ziiweb/website/65cf24ef1f99ab6f7e047d10/ff498e311e8109e0ba7a461c6f99997a.jpeg" alt="Phạm Biểu &amp; Đỗ Phượng Wedding site!">
+                </div>
+                <h2>Thank you!</h2>
+            </div>
+        </footer>
+    
+    
+    
+    <script src="https://bieuphuong.iwedding.info/templates/template15/js/jquery-plugin-collection.js?v=20240301"></script>
+    <script src="https://bieuphuong.iwedding.info/templates/template15/js/script.js?v=20240301"></script>
+    <script src="https://bieuphuong.iwedding.info/common/calendar.js?v=20240301"></script>
+    <script src="https://bieuphuong.iwedding.info/common/bii.js?v=20240301"></script>
+    <script src="https://bieuphuong.iwedding.info/common/emoji-picker/js/insertTextAtCursor.js?v=20240301"></script>
+    
+	<script type="module" src="https://bieuphuong.iwedding.info/common/emoji-picker/js/init.js?v=20240301"></script> 
+    <script type='text/javascript'>
+        var checkCtrl = false;
+
+$(document).keydown(function(e) {
+    if (e.keyCode == 17) {
+        checkCtrl = true;
+    }
+}).keyup(function(ev) {
+    if (ev.keyCode == 17) {
+        checkCtrl = false;
+    }
+}).keydown(function(event) {
+    if (checkCtrl && event.keyCode == 85) {
+        return false;
+    }
+});
+var checkCtrl = false;
+
+$(document).keydown(function(e) {
+    if (e.keyCode == 17) {
+        checkCtrl = true;
+    }
+}).keyup(function(ev) {
+    if (ev.keyCode == 17) {
+        checkCtrl = false;
+    }
+}).keydown(function(event) {
+    if (checkCtrl && event.keyCode == 85) {
+        return false;
+    }
+});
+
+    </script>
+</body>
+
+</html>
